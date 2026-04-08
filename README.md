@@ -17,20 +17,19 @@
 
 ## Key Features
 
-Features
-**User Authentication** Custom Django user model with email-based login, registration, and profile editing 
+**User Authentication:** Custom Django user model with email-based login, registration, and profile editing 
 
-**Study Rooms** Create, update, and delete rooms tagged by topic with live participant tracking 
+**Study Rooms:** Create, update, and delete rooms tagged by topic with live participant tracking 
 
-**Real-time Messaging** Post and delete messages within study rooms, with activity feed on the home page 
+**Real-time Messaging:** Post and delete messages within study rooms, with activity feed on the home page 
 
-**Topic Filtering** Browse rooms by topic or search across room names, descriptions, and topics 
+**Topic Filtering:** Browse rooms by topic or search across room names, descriptions, and topics 
 
-**User Profiles** Public profile pages showing a user's rooms and message activity 
+**User Profiles:** Public profile pages showing a user's rooms and message activity 
 
-**REST API** JSON API endpoints for rooms and users powered by Django REST Framework 
+**REST API:** JSON API endpoints for rooms and users powered by Django REST Framework 
 
-**Responsive UI** Mobile-friendly layout with a dark-mode themed interface 
+**Responsive UI:** Mobile-friendly layout with a dark-mode themed interface 
 
 
 
