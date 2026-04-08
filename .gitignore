@@ -1,1 +1,10 @@
 *.pyc
+.env
+db.sqlite3
+staticfiles/
+__pycache__/
+.venv/
+.vscode/
+.idea/
+.DS_Store
+*.pyo
