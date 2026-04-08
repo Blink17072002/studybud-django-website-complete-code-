@@ -9,10 +9,10 @@
 
 
 ## Video Demo
-
+https://youtu.be/QpShTTFMYN8
 
 ## Live Demo
-
+https://studybud125.pythonanywhere.com/
 
 
 ## Key Features
@@ -33,6 +33,7 @@
 
 
 
+
 ## Tech Stack
 
 **Backend**
@@ -49,6 +50,7 @@
 - **SQLite** (development & hosted demo) — zero-configuration relational DB
 
 
+
 ## Architecture Highlights
 
 - **Custom User Model** — Extended `AbstractUser` replacing username-based auth with email-based auth.
@@ -56,7 +58,8 @@
 - **CRUD via Class/Function Views** — Full CRUD on Rooms, Messages, and User Profiles using Django function-based views.
 - **REST API** — Exposes `/api/rooms/` and `/api/users/` for potential frontend decoupling.
 
----
+
+
 
 ## Local Setup
 
